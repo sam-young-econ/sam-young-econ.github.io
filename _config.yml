@@ -13,7 +13,7 @@ title                    : "Sam Young homepage"
 title_separator          : "-"
 name                     : &name "Sam Young"
 description              : &description "personal description"
-url                      : https://sam-young-econ.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://sam-young-econ.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sam-young-econ/sam-young-econ.github.io" # Default was "academicpages/academicpages.github.io"
 
