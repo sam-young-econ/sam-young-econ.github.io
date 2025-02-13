@@ -16,4 +16,4 @@ The left sidebar contains info about how to reach me by [email](mailto:sam.young
 My resume can be found [here](https://sam-young-econ.github.io/files/Sam Young resume 2025-02-12_with fields.pdf).
 
 The [Research](https://sam-young-econ.github.io/research/) tab contains copies of papers that I wrote.
-_ \* Please note that I am unable to share documents that I authored while at Amazon, due to the non-disclosure agreement (NDA) as part of my terms of employment._
+* Please note that I am unable to share documents that I authored while at Amazon, due to the non-disclosure agreement (NDA) that was part of my employment.
