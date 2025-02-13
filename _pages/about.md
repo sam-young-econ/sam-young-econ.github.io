@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, thank you for visiting"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,7 @@ redirect_from:
 
 I am an applied economist with 7+ years of work experience.  I received my Ph.D. in Economics from UC San Diego in 2017, with my dissertation focusing on the economics of education.  From 2017 to 2025, I worked at Amazon/AWS.  Outside of school and work, I have conducted independent research on baseball and sports analytics.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My resume can be found [here](https://sam-young-econ.github.io/files/Sam Young resume 2025-02-12_with fields.pdf).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+The [Research](https://sam-young-econ.github.io/research/) tab contains copies of papers that I wrote.
+* Please note that I am unable to share documents that I authored while at Amazon, due to the non-disclosure agreement (NDA) as part of my terms of employment.
