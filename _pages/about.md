@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied economist with 7+ years of work experience.  I received my Ph.D. in Economics from UC San Diego in 2017, with my dissertation focusing on the economics of education.  From 2017 to 2025, I worked at Amazon/AWS, using both experiments and econometric techniques to analyze the effects of strategic initiatives.  Outside of school and work, I have conducted independent research on baseball and sports analytics.
+I am an applied economist with 7+ years of work experience.  I received my Ph.D. in Economics from UC San Diego in 2017, with my dissertation focusing on the economics of education.  From 2017 to 2025, I worked at Amazon/AWS, using both experiments and econometric techniques to analyze business initiatives.  Outside of school and work, I have conducted independent research on baseball and sports analytics.
 
 Layout and Contents
 ======
